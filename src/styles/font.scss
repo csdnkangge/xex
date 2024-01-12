@@ -1,0 +1,61 @@
+
+
+
+
+@font-face {
+  font-family: DINPro-Medium;
+  src: url('../../static/fonts/DINPro-Medium.otf') format('OpenType');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: DINPro-Black;
+  src: url('../../static/fonts/DINPro-Black.otf') format('OpenType');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: DINPro-Bold;
+  src: url('../../static/fonts/DINPro-Bold.otf') format('OpenType');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: DINPro-Light;
+  src: url('../../static/fonts/DINPro-Light.otf') format('OpenType');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: DINPro-Regular;
+  src: url('../../static/fonts/DINPro-Regular.otf') format('OpenType');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+
+.DP-Black {
+  font-family: DINPro-Black !important;
+}
+.DP-Light {
+  font-family: DINPro-Light !important;
+}
+
+.DP-Bold {
+  font-family: DINPro-Bold !important;
+}
+
+.DP-Medium {
+  font-family: DINPro-Medium !important;
+}
+.DP-Regular {
+  font-family: DINPro-Medium !important;
+}
